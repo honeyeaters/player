@@ -4,7 +4,7 @@ object Configuration {
 
     object Project {
         const val group = "com.honeyeaters.player"
-        const val version = "1.0.1"
+        const val version = "0.0.1"
     }
 
     object Android {
